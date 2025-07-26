@@ -1,8 +1,5 @@
  ### Hi, I’m @PescadorDeIlusoes
-- I’m interested in RPGs/Games/Programing
-- I’m currently learning Java Script
-- I’m looking to collaborate on RPG making/Gaming
-- How to reach me: my discord Evan.#3136
+
 
 <!---
 PescadorDeIlusoes/PescadorDeIlusoes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
